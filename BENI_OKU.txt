@@ -1,0 +1,1 @@
+Config.json kısmını editlemeniz yeterlidir!
